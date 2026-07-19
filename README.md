@@ -34,13 +34,13 @@ Vehicles exchange beliefs with nearby vehicles, while RSUs aggregate information
 
 ## Team BSFL
 
- 1: Darwin Jose
+ 1: Darwin Jose ,
 Email:jjajencies@gmail.com
 
 
-2.Amal Ghosh T S
+2.Amal Ghosh T S ,
 Email:iamamalghosh10@gmail.com
 
 
-3.Aadhishekhar P
+3.Aadhishekhar P,
 Email:aadhishekhar@gmail.com
